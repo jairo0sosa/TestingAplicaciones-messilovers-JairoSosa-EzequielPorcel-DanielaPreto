@@ -2,7 +2,7 @@
 
 
 
-## nombre del equipo
+## Nombre del equipo
 
 -    "MESSILOVERS"
 
