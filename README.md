@@ -12,8 +12,11 @@
 -   'PORCEL EZEQUIEL INTEGRANTE 2'
 -   'DANIELA PRETO INTEGRANTE 3'
 
-## Links del Sprint 2:
-https://1drv.ms/x/s!AnNBXfYqIbNQqEoTsxlA6Y3SVdEx?e=blKNLM
+## Link del Sprint 2:
+https://1drv.ms/x/s!AnNBXfYqIbNQqEoTsxlA6Y3SVdEx?e=97EtDP
 
-## Links del Sprint 3:
-https://docs.google.com/spreadsheets/d/1Msi6bJF126e0f9x-jSEkFc-6-YH5X_bywySC6MTPEXI/edit?usp=sharing
+## Link del Sprint 3:
+https://1drv.ms/x/s!AnNBXfYqIbNQqEoTsxlA6Y3SVdEx?e=97EtDP
+
+## Link del Sprint 4:
+https://docs.google.com/spreadsheets/d/1OYPVMLJ1O3DuxP5FFnIpMJnjrwfJkTKpS-0FssVNM5g/edit?usp=sharing
