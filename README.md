@@ -12,6 +12,9 @@
 -   'PORCEL EZEQUIEL INTEGRANTE 2'
 -   'DANIELA PRETO INTEGRANTE 3'
 
+## Link del documento de las evidencias:
+https://docs.google.com/document/d/1LYGC7tot9BbcFDgy4nsI2--MjhXw-sk7GIqFrrE-UBk/edit?usp=sharing
+
 ## Link del Sprint 2:
 https://1drv.ms/x/s!AnNBXfYqIbNQqEoTsxlA6Y3SVdEx?e=97EtDP
 
