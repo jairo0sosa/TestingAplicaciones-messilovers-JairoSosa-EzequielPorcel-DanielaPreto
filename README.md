@@ -27,3 +27,5 @@ https://docs.google.com/spreadsheets/d/1OYPVMLJ1O3DuxP5FFnIpMJnjrwfJkTKpS-0FssVN
 ## Link del Sprint 5:
 https://docs.google.com/spreadsheets/d/1xLZR4PM2rCG8jc6-LGcmm-hSHJEoRQXMCAie88Pt0YQ/edit?usp=sharing
 
+## Link del Sprint 6:
+https://docs.google.com/spreadsheets/d/1eH7iBIMR1ItSC5JOLFw2hEstxpffqMLOKdO7bdy8uoI/edit?usp=sharing
