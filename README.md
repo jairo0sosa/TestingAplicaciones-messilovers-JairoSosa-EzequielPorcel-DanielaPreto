@@ -32,3 +32,5 @@ https://docs.google.com/spreadsheets/d/1eH7iBIMR1ItSC5JOLFw2hEstxpffqMLOKdO7bdy8
 
 ## Link del Sprint 7:
 https://docs.google.com/spreadsheets/d/1dE_wtmHwIlVl383X34PedhzwC5jMSYayaDtJw0Lkels/edit?usp=sharing
+
+Link del documento: https://docs.google.com/document/d/1Y4tdFTuLXNrr4KoVD60q8exapyz-4X9sSdzcDVy8mvs/edit?usp=sharing
