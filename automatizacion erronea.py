@@ -39,5 +39,5 @@ WebDriverWait(driver, 5)\
                                       '/html/body/div[2]/main/div[3]/div/div[2]/div[1]/div[2]/form/fieldset/div[4]/div[1]/button/span')))\
     .click()
 
-#esto sierra el navegador que se habre para hacer la prueva
+#esto cierra el navegador que se abre para hacer la prueba
 driver.quit()
